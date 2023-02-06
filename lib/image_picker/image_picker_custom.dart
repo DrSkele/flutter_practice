@@ -9,7 +9,7 @@ class MyImagePickerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Image Picker Demo',
+      title: 'Image Picker Custom',
       home: ImagePickerCustom(),
     );
   }
